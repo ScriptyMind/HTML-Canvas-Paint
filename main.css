@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #1abc9c;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  color: white;
+}
+
+h1 {
+  letter-spacing: 20px;
+  font-weight: 700;
+}
+
+.options {
+  margin: 0 auto;
+  z-index: 5;
+}
+
+label {
+  padding: 30px;
+
+}
+
+canvas {
+  background-color: white;
+  margin-top: 20px;
+  width: 99%;
+  height: 500px;
+  border: #16a085 solid 2px;
+}
